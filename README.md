@@ -1,3 +1,3 @@
 # KazuyaGuide
 
-Kazuya being worked on for the time being
+Kazuya guide being worked on for the time being
